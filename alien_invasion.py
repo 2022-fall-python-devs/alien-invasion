@@ -32,7 +32,7 @@ class AlienInvasion:
             # Redraw the screen during each pass through the loop.
             self.screen.fill(self.settings.bg_color)
 
-            # Make the most recently drawn screen visible.
+            # Make the most recently drawn screen visible. Reduces flicker.
             pygame.display.flip()
 
 # The application starts here.
