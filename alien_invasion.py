@@ -4,7 +4,7 @@ import pygame
 
 from settings import Settings
 
-# Bruno, please put some text in a comment here.
+# Be yourself, everyone else is already taken
 class AlienInvasion:
     """Overall class to manage game assets and behavior."""
 
