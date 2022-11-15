@@ -37,7 +37,7 @@ class AlienInvasion:
 
 # The application starts here.
 if __name__ == '__main__':
-    # Make a game instance, and run the game.
+    # Make a game instance, and run the game. Exciting stuff!!!
     ai = AlienInvasion()
     # Zach, please put some text in a comment here.
     ai.run_game()
