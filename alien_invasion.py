@@ -13,7 +13,7 @@ class AlienInvasion:
         pygame.init()
         self.settings = Settings()
 
-        # Daniel, please put some text in a comment here.
+        # Today, I met another Daniel. 2nd favorite saying, "You miss 100% of the shots you don't take"
         self.screen = pygame.display.set_mode(
             (self.settings.screen_width, self.settings.screen_height))
         pygame.display.set_caption("Alien Invasion")
