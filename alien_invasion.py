@@ -40,4 +40,5 @@ if __name__ == '__main__':
     # Make a game instance, and run the game.
     ai = AlienInvasion()
     # Zach, please put some text in a comment here.
+    #Hello, just testing this out.
     ai.run_game()
