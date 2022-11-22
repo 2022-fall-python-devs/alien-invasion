@@ -27,7 +27,7 @@ class AlienInvasion:
             for event in pygame.event.get():
                 if event.type == pygame.QUIT:
                     sys.exit()
-            # Tim, please put some text in a comment here.
+            # Sometimes I'll just stand here for hours watching tv.
 
             # Redraw the screen during each pass through the loop.
             self.screen.fill(self.settings.bg_color)
